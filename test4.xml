@@ -3,11 +3,14 @@
 	<title type="text">Sample video</title>
 	<id>https://example.com/</id>
 	<updated>2019-11-22T08:20:14+00:00</updated>
+	
 	<entry>
 		<title type="html">Sample video</title>
 		<updated>2019-11-22T08:20:14+00:00</updated>
-		<id>https://example.com/8</id>
+		<id>https://example.com/17</id>
 		<author><name>Sample video</name></author>
-		<content type="html">&lt;video controls=""&gt;&lt;source src="https://www.sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4" type="video/mp4"&gt;&lt;/video&gt;</content>
+		<content type="html">
+			&lt;video controls=""&gt;&lt;source src="https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4" type="video/mp4"&gt;&lt;/video&gt;
+		</content>
 	</entry>
 </feed>
